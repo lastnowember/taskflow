@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.idea/
+.env
+venv
+.DS_Store
+Thumbs.db
+.pytest_cache
+.vscode
+node_modules/
+npm-debug.log*
+
+.coverage
+htmlcov/
+
+dist/
+build/

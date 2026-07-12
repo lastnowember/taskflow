@@ -6,12 +6,12 @@ A modern Todo application built with FastAPI, React and PostgreSQL.
 
 Backend:
 
--
+- FastAPI
 
 Frontend:
 
--
+- React
 
 Database:
 
--
+- PostgreSQL
